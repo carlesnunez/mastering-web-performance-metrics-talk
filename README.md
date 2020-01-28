@@ -10,3 +10,7 @@
 - [Google document second draft about time to interactive definition](https://docs.google.com/document/d/1jbvwxj_GJtiTTqFM8dsVzCIy5XeKL5qtIAvuimcXb1o/edit)
 
 - [Addy Osmani medium article talking about time to interactive](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4)
+
+- [Web fundamentals article, why performance matters](https://developers.google.com/web/fundamentals/performance/why-performance-matters)
+
+- [Article talking about why load time affect business metrics](https://neilpatel.com/blog/loading-time/)
